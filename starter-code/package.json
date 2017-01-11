@@ -1,0 +1,15 @@
+{
+  "name": "starter-code",
+  "version": "0.9.0",
+  "description": "This is lab express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jennifer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
